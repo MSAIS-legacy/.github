@@ -10,14 +10,6 @@
 
 </div>
 
----
-
-## Направления
-
-`Machine Learning` · `Data Analysis` · `Big Data` · `Databases` · `Programming` · `Systems`
-
----
-
 <div align="center">
 
 **2023–2026**
